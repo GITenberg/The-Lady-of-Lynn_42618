@@ -1,0 +1,39 @@
+_repo: The-Lady-of-Lynn_42618
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42618-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Besant, Walter
+    aliases:
+    - Besant, Sir Walter
+    - Maurice, Walter
+    birthdate: 1836
+    deathdate: 1901
+    gutenberg_agent_id: '5404'
+    url: http://www.gutenberg.org/2009/agents/5404
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Besant
+description: Settle in for a wild ride in this gripping turn-of-the-twentieth-century
+  tale from British historian and author Walter Besant. Among a group of well-born
+  acquaintances, a nefarious plot takes hold that threatens to indelibly besmirch
+  the reputation of the eponymous Lady of Lynn. Will she be able to wriggle free from
+  the talons of her tormentors before it's too late?
+gutenberg_issued: '2013-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42618'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Sailors -- Fiction'
+- !lcsh 'Conspiracies -- Fiction'
+- !lcsh 'Heiresses -- Fiction'
+- !lcsh 'Norfolk (England) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Health resorts -- Fiction'
+title: The Lady of Lynn
+url: http://www.gutenberg.org/ebooks/42618
